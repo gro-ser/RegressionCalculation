@@ -1,0 +1,12 @@
+﻿Виды регрессий:
+Linear				y=a+bx
+Logarithmic			y=a+blnx
+Exponential			y=ae^bx
+TheExponential		y=ab^x
+Power				y=ax^b
+Inverse				y=a+b/x
+Quadratic			y=ax2+bx+c
+Sinus				y=a+bsinx
+Cosinus				y=a+bcosx
+Polynomial:5		y=a*x4+b*x3+c*x2+d*x+e
+InvertPolynomial:5	y=a/x4+b/x3+c/x2+d/x+e
